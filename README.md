@@ -1,0 +1,1 @@
+Aplicação a vaga em Target Sistemas de Juan Cassius Carneiro Pereira, desenvolvido em 27 abr 2023;
